@@ -1,0 +1,76 @@
+   body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f3e7dc;
+      color: #2e1d12;
+    }
+
+    .contenedor {
+      background: #fff;
+      max-width: 700px;
+      margin: 50px auto;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+      padding: 30px;
+    }
+
+    img {
+      width: 100%;
+      height: auto;
+      border-radius: 12px;
+      margin-bottom: 20px;
+    }
+
+    h1 {
+      font-size: 28px;
+      margin-bottom: 10px;
+    }
+
+    p.descripcion {
+      font-size: 16px;
+      color: #444;
+      line-height: 1.6;
+    }
+
+    .tiempo-prep {
+      background-color: #fceef5;
+      padding: 20px;
+      border-radius: 10px;
+      margin: 25px 0;
+    }
+
+    .tiempo-prep strong {
+      display: block;
+      margin-bottom: 6px;
+      color: brown;
+    }
+
+    h2 {
+      margin-top: 30px;
+      font-size: 22px;
+      color: brown;
+    }
+
+    ul, ol {
+      margin: 15px 0 15px 20px;
+    }
+
+    ul li, ol li {
+      margin-bottom: 10px;
+      line-height: 1.6;
+    }
+
+    ol li b {
+      color: #5b1e02;
+    }
+
+    .nutricion {
+      margin-top: 20px;
+    }
+.detalle{
+    color: brown;
+}
+    
+    
+   
